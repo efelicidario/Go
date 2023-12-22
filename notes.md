@@ -4,3 +4,6 @@ Run .go script
 
 Build executable
 `go build ___`
+
+Expression assignment (Walrus) operator
+`:=`
